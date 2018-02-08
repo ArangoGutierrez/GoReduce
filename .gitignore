@@ -3,7 +3,4 @@
 *.map
 *.reduce
 secrets
-twibot
-reduccer
 inreader
-mapper
