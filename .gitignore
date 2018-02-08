@@ -1,0 +1,9 @@
+*.txt
+*.chunck
+*.map
+*.reduce
+secrets
+twibot
+reduccer
+inreader
+mapper
